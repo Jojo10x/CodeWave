@@ -1,0 +1,17 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+body {
+  margin: 0;
+  background-color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --main-color: #ffffff;;
+  --bg-color: #000000;
+  --text-color: #C0C0C0;
+  --font-family: 'Inter','Helvetica Neue', Arial, sans-serif;
+  --font-size-extra-large: 54px;
+  --font-size-large: 40px;
+  --font-size-medium: 16px;
+  --font-size-small: 14px;
+}
