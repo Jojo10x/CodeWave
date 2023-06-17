@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CodeWave/static/css/main.358b9adf.css",
+    "main.js": "/CodeWave/static/js/main.fc4e2976.js",
+    "static/media/Inter-Bold.woff?v=3.19": "/CodeWave/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/CodeWave/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/CodeWave/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2?v=3.19": "/CodeWave/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/CodeWave/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/CodeWave/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/pp,840x830-pad,1000x1000,f8f8f8.u8.jpg": "/CodeWave/static/media/pp,840x830-pad,1000x1000,f8f8f8.u8.99154f8b04ba45cc5357.jpg",
+    "static/media/C++-Logo.wine.png": "/CodeWave/static/media/C++-Logo.wine.d29dcbab9dc538d6961d.png",
+    "static/media/python-programming-language.png": "/CodeWave/static/media/python-programming-language.4cc65740693c60267dd2.png",
+    "static/media/JavaScript-logo.png": "/CodeWave/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
+    "static/media/Aperture.svg": "/CodeWave/static/media/Aperture.075a526e00e369d891a4e19a01839d35.svg",
+    "static/media/Decor.svg": "/CodeWave/static/media/Decor.695f2d2a1077b2fae0638e3b4b7dc146.svg",
+    "index.html": "/CodeWave/index.html",
+    "static/media/Vector.svg": "/CodeWave/static/media/Vector.de872e08609fe2ce9b2d11acc85e00f5.svg",
+    "static/media/Close-Icon.svg": "/CodeWave/static/media/Close-Icon.1073b04e5dc09aee028299b8ad3af16d.svg",
+    "main.358b9adf.css.map": "/CodeWave/static/css/main.358b9adf.css.map",
+    "main.fc4e2976.js.map": "/CodeWave/static/js/main.fc4e2976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358b9adf.css",
+    "static/js/main.fc4e2976.js"
+  ]
+}
