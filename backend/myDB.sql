@@ -1,4 +1,3 @@
-/* Модуль myDB.sql создает базу данных myDB и две таблицы: clothes и orders.  */
 
 create database myDB;
 use myDB;
@@ -24,5 +23,4 @@ create table orders (
     foreign key (id_clothes) references clothes (id)
 );
 
-/* Выполняется запрос на выборку всех данных из таблицы orders.*/
 select * from orders;
